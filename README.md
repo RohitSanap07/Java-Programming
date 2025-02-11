@@ -30,10 +30,10 @@ This repository includes:
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/java-programming.git
-   ```
+   
 2. Open the codes in your favorite Java IDE (IntelliJ IDEA, Eclipse, or VS Code).
 3. Run any Java program from the respective folder.
-
+```
 ## 🛠 Java Topics Covered
 
 ✔ Java basics
