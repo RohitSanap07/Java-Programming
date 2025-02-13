@@ -23,7 +23,8 @@ This repository includes:
 │── 📂 Converters    
 │── 📂 Shape Measurement Calculate 
 │── 📂 Applications
-│── 📂 Company Questions     
+│── 📂 Company Questions
+│── 📂 Number Series   
 
 
 ## 🚀 Getting Started
