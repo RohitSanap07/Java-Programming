@@ -18,7 +18,7 @@ class NeonNumber
 		sum +=rem;
        
 	}
-	System.out.println(num==sum?"Yes":"NO");
+	System.out.println(num==sum?num+" is neon number":num+" is not neon number");
 
 	}
 }
