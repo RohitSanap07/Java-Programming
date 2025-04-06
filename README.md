@@ -24,8 +24,11 @@ This repository includes:
 │── 📂 Shape Measurement Calculate 
 │── 📂 Applications
 │── 📂 Company Questions
-│── 📂 Number Series   
-
+│── 📂 Number Series
+│── 📂 Patterns
+│── 📂 Methods
+│── 📂 Methods Overloading
+│── 📂 OOPs
 
 ## 🚀 Getting Started
 
