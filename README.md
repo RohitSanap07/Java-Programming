@@ -24,8 +24,11 @@ This repository includes:
 │── 📂 Shape Measurement Calculate 
 │── 📂 Applications
 │── 📂 Company Questions
-│── 📂 Number Series   
-
+│── 📂 Number Series
+│── 📂 Patterns
+│── 📂 Methods
+│── 📂 Methods Overloading
+│── 📂 OOPs
 
 ## 🚀 Getting Started
 
@@ -36,18 +39,6 @@ This repository includes:
 2. Open the codes in your favorite Java IDE (IntelliJ IDEA, Eclipse, or VS Code).
 3. Run any Java program from the respective folder.
 ```
-## 🛠 Java Topics Covered
-
-✔ Java basics
-✔ Tokens
-✔ Literals
-✔ Scanner class
-✔ Variables 
-✔ Data Types  
-✔ Operators
-✔ Conditional statements 
-✔ Looping statements 
-✔ Basic Applications in Java  
 
 ## 📌 Applications Included
 - **Stone-Paper-Scissors-Game**
