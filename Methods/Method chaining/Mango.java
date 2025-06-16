@@ -7,19 +7,19 @@ class Mango
 	Mango()
 	{}
 
-	public mango showPrice()
+	public Mango showPrice()
 	{
 		System.out.println(price);
 		return this;
 	}
 
-	public mango showType()
+	public Mango showType()
 	{
 		System.out.println(type);
 		return this;
 	}
 
-    public mango showOrigin()
+    public Mango showOrigin()
 	{
 		System.out.println(origin);
 		return this;
