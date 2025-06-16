@@ -1,7 +1,14 @@
 class Mango 
 {
-	public static void main(String[] args) 
+	double price ;
+	String type ;
+	String origin ;
+
+	Mango()
+	{}
+
+	public mango showPrice()
 	{
-		System.out.println("Hello World!");
+		System.out.println(price);
 	}
 }
