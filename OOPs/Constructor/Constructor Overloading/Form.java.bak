@@ -11,7 +11,7 @@ class Form
 	Form()
 	{}
     
-	Form(String name,long phno,,char gen,String dob)
+	Form(String name,long phno,char gen,String dob)
 	{
 		this.name = name;
 		this.phno = phno;
@@ -19,7 +19,7 @@ class Form
 		this.dob = dob;
 	}
 
-    Form(String name,long phno,,char gen,String dob,long tel)
+    Form(String name,long phno,char gen,String dob,long tel)
 	{
 		this.name = name;
 		this.phno = phno;
@@ -28,7 +28,7 @@ class Form
 		this.tel = tel;
 	}
 
-	Form(String name,long phno,,char gen,String dob,long tel,String blood)
+	Form(String name,long phno,char gen,String dob,long tel,String blood)
 	{
 		this.name = name;
 		this.phno = phno;
@@ -39,7 +39,7 @@ class Form
 		
 	}
 
-	Form(String name,long phno,,char gen,String dob,long tel,String blood,String email)
+	Form(String name,long phno,char gen,String dob,long tel,String blood,String email)
 	{
 		this.name = name;
 		this.phno = phno;
@@ -50,7 +50,35 @@ class Form
 		this.email = email;
 		
 	}
+    
+	public void displayForm()
+	{
+		System.out.println("Name "+name);
+		System.out.println("Phone no "+phno);
+		System.out.println("Gender "+gen);
+		System.out.println("DOB "+dob);
+		System.out.println("Tel "+tel);
+		System.out.println("Blood "+blood);
+		System.out.println("Email "+email);
+	}
+    
+	public void displayForm1()
+	{
+		System.out.println("Name: "+name);
+		System.out.println("Phone no: "+phno);
+		System.out.println("Gender: "+gen);
+		System.out.println("DOB: "+dob);
+	}
 
+	
+	public void displayForm2()
+	{
+		System.out.println("Name "+name);
+		System.out.println("Phone no "+phno);
+		System.out.println("Gender "+gen);
+		System.out.println("DOB "+dob);
+		System.out.println("Tel "+tel);
+	}
 
 
 }

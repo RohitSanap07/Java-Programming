@@ -11,7 +11,7 @@ class Form
 	Form()
 	{}
     
-	Form(String name,long phno,,char gen,String dob)
+	Form(String name,long phno,char gen,String dob)
 	{
 		this.name = name;
 		this.phno = phno;
@@ -19,7 +19,7 @@ class Form
 		this.dob = dob;
 	}
 
-    Form(String name,long phno,,char gen,String dob,long tel)
+    Form(String name,long phno,char gen,String dob,long tel)
 	{
 		this.name = name;
 		this.phno = phno;
@@ -28,7 +28,7 @@ class Form
 		this.tel = tel;
 	}
 
-	Form(String name,long phno,,char gen,String dob,long tel,String blood)
+	Form(String name,long phno,char gen,String dob,long tel,String blood)
 	{
 		this.name = name;
 		this.phno = phno;
@@ -39,7 +39,7 @@ class Form
 		
 	}
 
-	Form(String name,long phno,,char gen,String dob,long tel,String blood,String email)
+	Form(String name,long phno,char gen,String dob,long tel,String blood,String email)
 	{
 		this.name = name;
 		this.phno = phno;
@@ -61,8 +61,5 @@ class Form
 		System.out.println("Blood "+blood);
 		System.out.println("Email "+email);
 	}
-
-
-
-
+    
 }
