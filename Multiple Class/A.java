@@ -1,3 +1,5 @@
+// Here we have more than one class in one class 
+// We need to make one class as public and give name as file name
 public class A
 {
 	public static void main(String[] args) 
